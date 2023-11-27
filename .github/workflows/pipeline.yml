@@ -37,7 +37,7 @@ jobs:
         arguments: build
 
     - name: Tag artifact
-      run: mv build/libs/greetings-ci.jar build/libs/greetigs-ci-${{ steps.changelog.outputs.version || github.event.inputs.myVersion }}.jar
+      run: mv build/libs/greetings-ci.jar build/libs/greetings-ci-${{ steps.changelog.outputs.version || github.event.inputs.myVersion }}.jar
 
     - name: Upload Artifact
       uses: actions/upload-artifact@v3
