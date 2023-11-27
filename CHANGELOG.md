@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/shelbielehto/greetings-ci/compare/v0.2.0...v0.3.0) (2023-11-27)
+
+
+### Features
+
+* version artifact ([b3e9427](https://github.com/shelbielehto/greetings-ci/commit/b3e94270cf06848c34652064f85e59efba231f43))
+
+
+
 # [0.2.0](https://github.com/shelbielehto/greetings-ci/compare/v0.1.0...v0.2.0) (2023-11-27)
 
 
