@@ -1,3 +1,12 @@
+## [0.4.2](https://github.com/shelbielehto/greetings-ci/compare/v0.4.1...v0.4.2) (2023-11-27)
+
+
+### Bug Fixes
+
+* pipline.yml typos ([5c19148](https://github.com/shelbielehto/greetings-ci/commit/5c19148779b8de2ef88843785be2b54e1cd825a7))
+
+
+
 ## [0.4.1](https://github.com/shelbielehto/greetings-ci/compare/v0.4.0...v0.4.1) (2023-11-27)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * version artifact ([b3e9427](https://github.com/shelbielehto/greetings-ci/commit/b3e94270cf06848c34652064f85e59efba231f43))
-
-
-
-# [0.2.0](https://github.com/shelbielehto/greetings-ci/compare/v0.1.0...v0.2.0) (2023-11-27)
-
-
-### Features
-
-* upload artifact ([358533a](https://github.com/shelbielehto/greetings-ci/commit/358533ab44e6bb2b1ab70f4eb2c74155b77dbd6e))
 
 
 
