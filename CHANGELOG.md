@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/shelbielehto/greetings-ci/compare/v0.3.0...v0.3.1) (2023-11-27)
+
+
+### Bug Fixes
+
+* pipeline.yml typo ([7a1e509](https://github.com/shelbielehto/greetings-ci/commit/7a1e5099ffd73d552f0aef73502bb931d75ca10a))
+
+
+
 # [0.3.0](https://github.com/shelbielehto/greetings-ci/compare/v0.2.0...v0.3.0) (2023-11-27)
 
 
