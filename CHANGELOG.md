@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/shelbielehto/greetings-ci/compare/v0.3.1...v0.4.0) (2023-11-27)
+
+
+### Features
+
+* add testing to pipeline ([adae08f](https://github.com/shelbielehto/greetings-ci/commit/adae08faa4b77fbf36b34ea20f8b1d184cc549d6))
+
+
+
 ## [0.3.1](https://github.com/shelbielehto/greetings-ci/compare/v0.3.0...v0.3.1) (2023-11-27)
 
 
